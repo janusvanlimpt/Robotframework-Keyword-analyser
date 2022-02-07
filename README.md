@@ -6,7 +6,7 @@ This simple script takes two import parameters:
     2. a output file (.csv)
     
 The output file will be a csv with the following information:
-    A keyword
+    A keyword \n
     Number of occurrences 
     Total time spent running all the keywords
     Longest time a single keyword took.
